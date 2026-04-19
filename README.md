@@ -32,7 +32,7 @@ This project was built as a learning exercise, but I focused on making it feel p
 
 ## 📷 Screenshots
 
-(Add screenshots here later)
+
 
 ## 🙌
 
