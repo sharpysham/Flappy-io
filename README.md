@@ -32,7 +32,9 @@ This project was built as a learning exercise, but I focused on making it feel p
 
 ## 📷 Screenshots
 
-
+![Menu](screenshot1.png)
+![Gameplay](Screenshots/gameplay.png)
+![Game Over](Screenshots/gameover.png)
 
 ## 🙌
 
