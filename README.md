@@ -36,6 +36,6 @@ This project was built as a learning exercise, but I focused on making it feel p
 ![Gameplay](Screenshot3.png)
 ![Game Over](Screenshot2.png)
 
-## 🙌
+## 
 
 If you try it out or have suggestions, feel free to share.
